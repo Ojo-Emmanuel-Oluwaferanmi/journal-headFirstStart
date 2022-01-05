@@ -9,10 +9,10 @@ h2 {
   border-bottom: thin dotted #888888;
 }
 h1 {
-  font-size: 100%;
+  font-size: 170%;
 }
 h2 {
-  font-size: 100%;
+  font-size: 130%;
 }
 blockquote {
   font-style: italic;
@@ -27,7 +27,7 @@ table {
 }
 
 th {
-  background-color: #ff0000;
+  background-color: #cc6600;
 }
 
 td,
@@ -54,7 +54,7 @@ caption {
 }
 
 .cellcolor {
-  background-color: blue;
+  background-color: brown;
 }
 li {
   list-style-image: url(images/backpack.gif);
