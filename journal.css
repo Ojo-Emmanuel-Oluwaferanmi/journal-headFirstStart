@@ -27,7 +27,7 @@ table {
 }
 
 th {
-  background-color: #cc6600;
+  background-color: #ff0000;
 }
 
 td,
@@ -54,7 +54,7 @@ caption {
 }
 
 .cellcolor {
-  background-color: #fcba7a;
+  background-color: blue;
 }
 li {
   list-style-image: url(images/backpack.gif);
